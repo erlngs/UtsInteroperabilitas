@@ -35,3 +35,9 @@ Mencari buku berdasarkan kategori dan judul
 
 ![alt text](image-9.png)
 ![alt text](image-10.png)
+
+    UPLOAD API KE PUBLIC 
+
+Ini ketika diakses oleh teman saya
+
+![alt text](<Gambar WhatsApp 2024-10-20 pukul 21.35.12_495d6935.jpg>)
