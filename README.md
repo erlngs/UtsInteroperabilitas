@@ -38,6 +38,8 @@ Mencari buku berdasarkan kategori dan judul
 
     UPLOAD API KE PUBLIC 
 
+Saya memakai ports yang ada di vscode dan menggunakan ports 8000 lalu di ubah yang tadinya privat di ubah menjadi public.
+
 Ini ketika diakses oleh teman saya
 
 ![alt text](<Gambar WhatsApp 2024-10-20 pukul 21.35.12_495d6935.jpg>)
